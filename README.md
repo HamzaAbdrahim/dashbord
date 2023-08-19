@@ -1,7 +1,6 @@
 # Resposive Dashbord
-![dashbord  Page Preview](dashbord/imges/Picture.png)
+![dashbord Page Preview](/imges/Picture.png)
 - Live Preview: Access a live preview of the dashboard [here](https://ess-maker.github.io/dashbord/)
-- 
 Dashbord is a web project that provides a dashboard interface with multiple pages.
 
 ## Features
