@@ -1,4 +1,4 @@
-# Dashbord
+# Resposive Dashbord
 
 - Live Preview: Access a live preview of the dashboard [here](https://ess-maker.github.io/dashbord/)
 - https://ess-maker.github.io/dashbord/
