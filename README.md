@@ -1,13 +1,21 @@
 # Dashbord
 
-This is a web-based dashboard project built with HTML and CSS.
+- Live Preview: Access a live preview of the dashboard [here](link-to-live-preview](https://ess-maker.github.io/dashbord/).
+
+Dashbord is a web project that provides a dashboard interface with multiple pages.
 
 ## Features
 
-- Responsive layout for different screen sizes
-- Interactive charts and graphs
-- User-friendly interface
-- Easy customization
+- Responsive design to support various screen sizes
+- Multiple pages:
+  - `index.html`: Home page
+  - `courses.html`: Courses page
+  - `files.html`: Files page
+  - `friends.html`: Friends page
+  - `profile.html`: Profile page
+  - `projects.html`: Projects page
+  - `settings.html`: Settings page
+  - `plans.html`: Plans page
 
 ## Getting Started
 
@@ -15,19 +23,27 @@ To use or contribute to this project, follow these steps:
 
 1. Clone the repository:
 2. git clone https://github.com/ess-maker/dashbord.git
-3. 2. Open the project folder in your preferred code editor.
 
-3. Run the `index.html` file in a web browser to see the dashboard.
+2. Open any of the HTML files in a web browser to view the corresponding page.
 
 ## Customization
 
-If you wish to customize the dashboard, you can modify the CSS file located at `styles.css`. Feel free to update the colors, layout, or add your own styles to suit your needs.
+You can customize the dashboard by modifying the HTML and CSS files for each page. The CSS styles can be found in the `styles.css` file. Feel free to customize the design, layout, and content to suit your needs.
 
 ## Folder Structure
 
-- `index.html`: The main HTML file for the dashboard.
-- `styles.css`: Contains the CSS styles for the dashboard.
-- `images/`: Directory for storing any images used in the project.
+The project has the following structure:
+
+- `index.html`: Home page
+- `courses.html`: Courses page
+- `files.html`: Files page
+- `friends.html`: Friends page
+- `profile.html`: Profile page
+- `projects.html`: Projects page
+- `settings.html`: Settings page
+- `plans.html`: Plans page
+- `styles.css`: CSS styles for the project
+- `images/`: Directory for storing images used in the project
 
 ## Contributing
 
