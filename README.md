@@ -1,6 +1,7 @@
 # Dashbord
 
-- Live Preview: Access a live preview of the dashboard [here](link-to-live-preview](https://ess-maker.github.io/dashbord/).
+- Live Preview: Access a live preview of the dashboard [here](https://ess-maker.github.io/dashbord/)
+- https://ess-maker.github.io/dashbord/
 
 Dashbord is a web project that provides a dashboard interface with multiple pages.
 
